@@ -1,3 +1,2 @@
 # cen4802
- Software Integration, Configuration, and Testing Coursework
- Mark Fowler
+Mark Fowler - Software Integration, Configuration, and Testing Coursework
